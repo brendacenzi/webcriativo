@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+    <projeto>
+        <titulo>Empório Rosa</titulo>
+        <imagem>emporio.jpg</imagem>
+        <url>http://emporiorosaonline.com.br</url>
+        <descricao>E-commerce voltado para venda de especiarias</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Carambola Kids</titulo>
+        <imagem>carambola.jpg</imagem>
+        <url>http://carambolabykids.com.br/</url>
+        <descricao>Loja virtual para venda de roupas infantis</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Golde Pet Shop</titulo>
+        <imagem>golden-pet.jpg</imagem>
+        <url>http://goldenpetguaruja.com.br/</url>
+        <descricao>Site institucional para divulgação do pet shop</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Perfumaria Charme</titulo>
+        <imagem>charme.jpg</imagem>
+        <url>http://perfumariacharme.com.br</url>
+        <descricao>Venda de perfumes importados</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Bruna Lingerie</titulo>
+        <imagem>bruna-lingerie.jpg</imagem>
+        <url>http://brunalingerie.com.br</url>
+        <descricao>E-commerce voltado para venda de lingeries</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Crossfit Guarujá</titulo>
+        <imagem>crossfit-guaru.jpg</imagem>
+        <url>http://www.crossfitguaruja.com.br</url>
+        <descricao>Divulgação do serviço do Crossfit Guarujá</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Acervo Rocci</titulo>
+        <imagem>acervo-rocci.jpg</imagem>
+        <url>https://acervorocci.com.br/index.php/?limit=36</url>
+        <descricao>Loja virtual para venda de acessórios femininos</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Escola Evoluir</titulo>
+        <imagem>evoluir.jpg</imagem>
+        <url>http://www.ceievoluir.com.br</url>
+        <descricao>Divulgação do trabalho da escola Evoluir</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Instituto Them</titulo>
+        <imagem>them.jpg</imagem>
+        <url>http://www.institutothem.com.br</url>
+        <descricao>Prestadora serviços nas áreas de gestão de conflitos e comunicação</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Santa fé</titulo>
+        <imagem>santa-fe.jpg</imagem>
+        <url>http://santafecerealista.com.br</url>
+        <descricao>Venda de produtos naturais</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Conciliar RB</titulo>
+        <imagem>conciliar.jpg</imagem>
+        <url>http://www.arbitragemresponde.com.br</url>
+        <descricao>Instituição privada de advocacia</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Clima Ar</titulo>
+        <imagem>clima-ar.jpg</imagem>
+        <url>http://www.arcondicionadoguaruja.com.br</url>
+        <descricao>Divulgação de serviços referentes a ar-condicionado</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Esprina Fer</titulo>
+        <imagem>esprina.jpg</imagem>
+        <url>http://www.esprinafer.com.br</url>
+        <descricao>Venda e outros serviços referentes a ferro</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Euroaços</titulo>
+        <imagem>euroacos.jpg</imagem>
+        <url>http://www.euroacos.com.br</url>
+        <descricao>Distribuidora de ferro e aço</descricao>
+    </projeto>
+    <projeto>
+        <titulo>Memamuska</titulo>
+        <imagem>memamuska.jpg</imagem>
+        <url>http://memamuska.com.br</url>
+        <descricao>Venda de produtos de diversas categorias</descricao>
+    </projeto>
+</portfolio>
